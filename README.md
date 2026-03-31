@@ -15,14 +15,6 @@
 
 ---
 
-## 🌍 Why We Built This
-
-Women's safety remains a critical concern in today's world. According to the National Crime Records Bureau, crimes against women in India have been consistently rising year over year. Many existing safety solutions are either too complex, require internet at all times, or are simply not built with the end user in mind.
-
-**EmpowerMe** was built to address this gap — a simple, fast, and reliable safety app that a woman can use in seconds when she needs help the most. As engineering students at RAIT, we wanted to build something that goes beyond academics and creates a real-world impact.
-
----
-
 ## 📖 About
 
 EmpowerMe is a cross-platform mobile application built with Flutter and Firebase, designed to help women stay safe in emergency situations. The app provides instant SOS alerts, live location sharing, fake call simulation, and a trusted contacts system — all wrapped in a clean, intuitive interface.
