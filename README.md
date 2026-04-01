@@ -145,7 +145,7 @@ lib/
 | Name | GitHub |
 |------|--------|
 | Neha Kadam | [@NehaKadam26](https://github.com/NehaKadam26) |
-| Ishita Sharma | — |
+| Ishita Sharma | [@IshitaSharma865](https://github.com/IshitaSharma865)|
 | Dilkush Janwa | [@dilkush-31](https://github.com/dilkush-31) |
 | Hitarth Khot | [@hitarthruns](https://github.com/hitarthruns) |
 
